@@ -1,6 +1,6 @@
-# 📖 Uriel’s Codex
+# 📖 UrieL’s Codex
 
-Hi! I'm **Brent Yuri Paule Chavez**, but around here, I go by the name **Uriel** — an upcoming 2nd year BSIT student, coder-in-training, and passionate builder of systems that solve real-world problems.
+Hi! I'm **Brent Yuri Paule Chavez**, but around here, I go by the name **UrieL** — an upcoming 2nd year BSIT student, coder-in-training, and passionate builder of systems that solve real-world problems.
 
 This GitHub profile is my personal **codex** — a living archive of everything I learn, create, break, and rebuild. Through each project and commit, I document my evolving journey toward mastery — and ultimately, greatness — in the world of technology.
 
